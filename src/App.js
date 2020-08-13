@@ -57,8 +57,7 @@ const App = () => {
         <div className={classes.footer}>
           <Typography variant="body1" component="h2">
             Created by
-            <a className={classes.link} href="https://www.linkedin.com/in/adrian-hajdin/">Pranav Dherange</a> -
-            <a className={classes.link} href="http://youtube.com/javascriptmastery"> JavaScript Mastery</a>
+            <a className={classes.link} href="https://www.linkedin.com/in/pranav-dherange-251b101a7/">Pranav Dherange</a>
           </Typography>
         </div>
       ) : null}
